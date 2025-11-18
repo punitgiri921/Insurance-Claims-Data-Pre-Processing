@@ -1,0 +1,71 @@
+claim_id,customer_id,claim_date,claim_amount,claim_type,status
+CL-M001,C019,,6709,theft,
+CLM002,c002,2024/01/03,N/A,weather,approved
+CLM003,C-019,2024-01-04,0,Weather?,approved
+CLM004 ,C002,2024-01-05,,OTHER ,Denied
+CLM005??,CO38,06-01-2024,N/A,OTHER ,denied
+CLM006??,C-013,2024-01-07,-103,OTHER ,APPROVED
+CLM007,C-011, 2024-01-08,,accident,Approved
+CLM008??,CO38,09-01-2024,8194.50,fire ,pending
+CL-M009,c033, 2024-01-10,0,accident,pending
+clm010,C-029,11-01-2024,,theft,Denied
+CLM011??,C027 , 2024-01-12,,other,Approved
+CL-M012,C012??,13-01-2024,-571,FIRE,denied
+ CLM013,C040??,2024-01-14,9253,fire ,Pending
+ CLM014,c034,,,theft,Approved
+CLM015??,C025??,16-01-2024,,other,pending
+clm016,CO18, 2024-01-17,,Weather?,denied
+clm017,c006,18-01-2024,-335,accident,Pending
+CLM018 ,C024??,2024/01/19,-154,AccidEnt,Unknown
+CLM019,C002??, 2024-01-20,5906.50,other,denied
+ CLM020,c034,,N/A,weather,pending
+CLM021??,c041,,,FIRE,
+CLM022??,c007,,6527.50,theft,denied
+CLM023,C-041,,0,accident,Pending
+CL-M024,C019 , 2024-01-25,,fire ,Pending
+CL-M025,C044,,8514.50,accident,denied
+ CLM026,C-038, 2024-01-27,0,fire ,approved
+CLM027??,CO2O,28-01-2024,0,weather,approved
+CLM028,C-002,2024/01/29,0,theft,APPROVED
+CLM029 ,C-005,,3604,theft,approved
+CLM030??,CO4O,31-01-2024,N/A,Weather?,Unknown
+ CLM031,C016??,2024-02-01,-752,weather,Denied
+CLM032 ,C-007,02-01-2024,0,theft,APPROVED
+CLM033??,c007,,, theft? ,Unknown
+clm034,CO32,2024/02/04,3743.50,AccidEnt,
+ CLM035,c039, 2024-02-05,6405,AccidEnt,
+clm036,C007??,2024/02/06,8982,fire ,Denied
+CL-M037,c038,2024-02-07,-633,other,APPROVED
+CLM038??,C-019,,0,OTHER ,Denied
+CLMO39,C-027,09-01-2024,9700, theft? ,Approved
+CLM040??,C046 ,10-01-2024,N/A,theft,Approved
+CLM041??,C-027,,-353,OTHER ,APPROVED
+ CLM042,C021 ,2024/02/12,N/A,Weather?,APPROVED
+CLM043 ,C033 ,2024-02-13,,other,denied
+CLM044,CO3O,2024/02/14,-560,other,
+clm045,c018,,,Weather?,Pending
+CLM046??,C024??,2024/02/16,0,AccidEnt,denied
+CLMO47,C007??,17-01-2024,,FIRE,approved
+CLMO48,C022,,908.50,theft,Pending
+CLM049,C-029,,8285.50, theft? ,Denied
+CLMO5O,C006 , 2024-02-20,124.50,theft,approved
+CLM051,C035 ,21-01-2024,11640,accident,Approved
+CLM052??,C044 ,,0,other,Approved
+CLM053,C029??,2024-02-23,,AccidEnt,pending
+CLM054,C034 , 2024-02-24,,fire ,Unknown
+CLM055 ,C018, 2024-02-25,-130,weather,Denied
+clm056,CO35,,,weather,Denied
+CL-M057,CO4O,27-01-2024,6932.50,OTHER ,denied
+ CLM058,C-022,2024-02-28,,OTHER ,APPROVED
+CL-M059,COO7,2024-02-29,0,accident,Denied
+CLM060??,C050 ,2024-03-01,1457,weather,APPROVED
+CLM061,C047,,12930,fire ,APPROVED
+CLM062 ,CO24,03-01-2024,N/A,accident,Approved
+clm063,CO34,2024/03/04,893,other,denied
+CLMO64,C048 ,,N/A,AccidEnt,Pending
+clm065,C039??,,N/A,weather,Unknown
+CLM066??,CO32,07-01-2024,,weather,Unknown
+CLMO67,CO17,,5750,weather,Unknown
+ CLM068,c002,09-01-2024,N/A,fire ,approved
+clm069,CO19,2024-03-10,9673,theft,Approved
+clm070,C044,11-01-2024,0,weather,APPROVED

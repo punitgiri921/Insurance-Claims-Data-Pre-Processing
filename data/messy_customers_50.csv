@@ -1,0 +1,51 @@
+customer_id,customer_name,age,gender,region
+C001,Krish??,34, ,west 
+C002??,Neha,49 yrs,FEMALE,W3st
+C003,manav,twenty five,Male,N.East
+C-004,ManavA,27,f,East
+C005,Manav,50 yrs,m, EAST
+C006 ,Sana ,,F, EAST
+c007,RAJ,twenty five,Female,N.East
+C-008,Asha ,?,MALE,East
+C-009,IshaM,?,Unknown,NORTH??
+C010 ,VarunK,twenty five,F, north
+ C011,krish,,MALE, EAST
+C-012,Krish??,50,Unknown,South
+C013 ,Manav ,twenty five,FEMALE,N.East
+c014,RaviV,?, ,South
+C015,Lucy,29 yrs,FEMALE,NORTH??
+c016,Amit ,,Female,W3st
+ C017,ISHA,?,M,south 
+c018,Manav,?,Male,North
+c019,AadilQ,?, ,West
+C020,ANYA,?,MALE,N.East
+C021,AmitS,,M,N.East
+C022??,Varun,22,m,West
+c023, Meera,,Female,East
+c024,lucy,60,f,west 
+C025??,SanaN,54,MALE,west 
+C026,Karan ,53 yrs,M, EAST
+C-027,Aadil,25,MALE,W3st
+ C028,tina,26 yrs,F,West
+ C029,Anya ,N/A, ,south-east?
+C030 ,Sana ,twenty five,Unknown,North
+c031,Varun ,44,,W3st
+C032 ,Isha,48,m, north
+C033??,Anya ,20,Unknown,W3st
+C034,Lucy ,twenty five,Female,West
+C035??,Neha ,N/A,Male, north
+ C036,Varun ,,m,South
+C037??,HarshO,,m,South
+c038,Johnu,38 yrs,f,W3st
+ C039,ASHA,,FEMALE,West
+c040, Lucy,twenty five,, EAST
+c041,MEERA,27,m,W3st
+ C042,ASHA,twenty five,Male,North
+C-043,Isha ,N/A,Unknown,south 
+CO44,John ,39 yrs,f, north
+C045??,TINA,N/A,M,south-east?
+C046 ,RAVI,,F,NORTH??
+C047,Harsh ,,M,west 
+C-048,POOJA,,Male,South
+C049??,John,54,Unknown,W3st
+C050??,LUCY,twenty five,f,W3st
