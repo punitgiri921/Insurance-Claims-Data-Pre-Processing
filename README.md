@@ -104,7 +104,7 @@ This project cleans, validates, merges, and analyzes the **customers** and **cla
 * **NumPy**
 * **Matplotlib / Seaborn**
 * **Regex (re)**
-* **Google Colab **
+* **Google Colab**
 
 ---
 
