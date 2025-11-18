@@ -23,13 +23,13 @@ This project cleans, validates, merges, and analyzes the **customers** and **cla
 
 ## **📂 Files in This Repository**
 
-| File                         | Description                                                                 |
-| ---------------------------- | --------------------------------------------------------------------------- |
-| `Insurance_Claim_Data.ipynb` | Full notebook containing cleaning steps, validations, analysis, and outputs |
-| `messy_customers_70.csv`     | Raw customer data                                                           |
-| `messy_claims_70.csv`        | Raw claims data                                                             |
-| `cleaned_claims.csv`         | Cleaned claim data                                                          |
-| `cleaned_customers.csv`      | Cleaned customer data                                                       |
+| File                                        | Description                                                                 |
+| --------------------------------------------| --------------------------------------------------------------------------- |
+| `Insurance_Claims_Data_Preprocessing.ipynb` | Full notebook containing cleaning steps, validations, analysis, and outputs |
+| `messy_customers_70.csv`                    | Raw customer data                                                           |
+| `messy_claims_70.csv`                       | Raw claims data                                                             |
+| `cleaned_claims.csv`                        | Cleaned claim data                                                          |
+| `cleaned_customers.csv`                     | Cleaned customer data                                                       |
 ---
 
 ## **🎯 Key Objectives**
